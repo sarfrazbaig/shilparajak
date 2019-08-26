@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="985px" height="410px" viewBox="0 0 985 410" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 11</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-50.000000, -1892.000000)">
+            <g id="Group-11" transform="translate(49.000000, 1887.000000)">
+                <text id="Existing-Plan-for-am" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="20" font-weight="400" fill="#252525">
+                    <tspan x="0" y="20">Existing Plan for ambassador recruitment (before onboarding tool)</tspan>
+                </text>
+                <text id="Decision-for-Onboard" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="20" font-weight="400" fill="#252525">
+                    <tspan x="4" y="295">Decision for Onboarding tool</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="5" y="77" width="170" height="132" rx="2"></rect>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="275" y="77" width="170" height="132" rx="2"></rect>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="545" y="77" width="170" height="132" rx="2"></rect>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="815" y="77" width="170" height="132" rx="2"></rect>
+                <text id="Stage-1" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" fill="#004EFF">
+                    <tspan x="62" y="105">Stage 1</tspan>
+                </text>
+                <text id="Stage-2" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" fill="#004EFF">
+                    <tspan x="333" y="105">Stage 2</tspan>
+                </text>
+                <text id="Stage-3" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" fill="#004EFF">
+                    <tspan x="603" y="103">Stage 3</tspan>
+                </text>
+                <text id="Ambassador-walkin-fo" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="35.44" y="132">Ambassador walkin </tspan>
+                    <tspan x="33.334" y="146">for the interview and </tspan>
+                    <tspan x="44.98" y="160">asked to submit </tspan>
+                    <tspan x="70.444" y="174">details</tspan>
+                </text>
+                <text id="Ambassador-were-akse" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="312.442" y="138">Ambassador were </tspan>
+                    <tspan x="319.876" y="152">aksed to take a </tspan>
+                    <tspan x="331.33" y="166">driving test </tspan>
+                </text>
+                <text id="Ambassador-were-sent" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="583.442" y="136">Ambassador were </tspan>
+                    <tspan x="583.106" y="150">sent for training to</tspan>
+                    <tspan x="579.314" y="164">perform pickup and </tspan>
+                    <tspan x="589.754" y="178">dropoff with the</tspan>
+                    <tspan x="576.326" y="192">existing ambassador</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="7" y="336" width="132" height="77" rx="2"></rect>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="203" y="335" width="132" height="79" rx="2"></rect>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="398" y="335" width="132" height="79" rx="2"></rect>
+                <text id="Module-1" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#004EFF">
+                    <tspan x="41" y="360">Module 1</tspan>
+                </text>
+                <text id="Module-2" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#004EFF">
+                    <tspan x="238" y="360">Module 2</tspan>
+                </text>
+                <text id="Module-3" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#004EFF">
+                    <tspan x="440" y="361">Module 3</tspan>
+                </text>
+                <text id="Walk-in-interface-fo" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="28.108" y="385">Walk-in interface </tspan>
+                    <tspan x="30.772" y="399">for ambassador </tspan>
+                </text>
+                <text id="Trainer-Interface" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="226" y="389">Trainer Interface</tspan>
+                </text>
+                <text id="Recruiter-Interface" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="417" y="389">Recruiter Interface</tspan>
+                </text>
+                <text id="Stage-4" font-family="HelveticaNeue, Helvetica Neue" font-size="15" font-weight="normal" fill="#004EFF">
+                    <tspan x="872" y="104">Stage 4</tspan>
+                </text>
+                <text id="Final-step-where-amb" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="857.11" y="137">Final step where</tspan>
+                    <tspan x="849.43" y="151">ambassador has to </tspan>
+                    <tspan x="851.752" y="165">accept the offer to </tspan>
+                    <tspan x="854.872" y="179">join the company</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

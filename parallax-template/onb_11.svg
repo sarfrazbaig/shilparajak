@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1384px" height="2101px" viewBox="0 0 1384 2101" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 20</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#6139EA" offset="0%"></stop>
+            <stop stop-color="#0F5FF8" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-2">
+            <stop stop-color="#0085FF" offset="0%"></stop>
+            <stop stop-color="#004EFF" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#11C395" offset="0%"></stop>
+            <stop stop-color="#00F5B5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-4">
+            <stop stop-color="#5665FF" offset="0%"></stop>
+            <stop stop-color="#0F5FF8" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-5" x="4" y="1722" width="160" height="33" rx="8"></rect>
+        <filter x="-4.4%" y="-15.2%" width="108.8%" height="142.4%" filterUnits="objectBoundingBox" id="filter-6">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.643137255   0 0 0 0 0.6   0 0 0 0 0.6  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-7" x="883" y="1704" width="202" height="33" rx="8"></rect>
+        <filter x="-3.5%" y="-15.2%" width="106.9%" height="142.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.643137255   0 0 0 0 0.6   0 0 0 0 0.6  0 0 0 1 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-43.000000, -13304.000000)">
+            <g id="Group-20" transform="translate(44.000000, 13309.000000)">
+                <text id="2" fill="url(#linearGradient-1)" font-family="HelveticaNeue, Helvetica Neue" font-size="48" font-weight="normal">
+                    <tspan x="464" y="1484">2</tspan>
+                </text>
+                <polygon id="Star" fill="url(#linearGradient-1)" points="495.5 1458.25 491.091611 1460.56763 491.933538 1455.65881 488.367076 1452.18237 493.295805 1451.46619 495.5 1447 497.704195 1451.46619 502.632924 1452.18237 499.066462 1455.65881 499.908389 1460.56763"></polygon>
+                <polygon id="Star" fill="url(#linearGradient-1)" points="1354.5 1377.25 1350.09161 1379.56763 1350.93354 1374.65881 1347.36708 1371.18237 1352.29581 1370.46619 1354.5 1366 1356.70419 1370.46619 1361.63292 1371.18237 1358.06646 1374.65881 1358.90839 1379.56763"></polygon>
+                <text id="First-Name" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="20" font-weight="400" fill="#000000">
+                    <tspan x="3" y="523">First Name</tspan>
+                </text>
+                <text id="Optional" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="3" y="562">Optional</tspan>
+                </text>
+                <text id="Pre-Screening" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="3" y="1095">Pre </tspan>
+                    <tspan x="3" y="1111">Screening</tspan>
+                </text>
+                <text id="1" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#E93A51">
+                    <tspan x="30" y="1475">1</tspan>
+                </text>
+                <text id="2" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="97" y="1475">2</tspan>
+                </text>
+                <rect id="Rectangle-2" stroke="#FF4C4C" opacity="0.2" x="3.5" y="1450.5" width="62" height="34" rx="4"></rect>
+                <rect id="Rectangle-2" stroke="#FA870C" opacity="0.4" x="69.5" y="1450.5" width="62" height="34" rx="4"></rect>
+                <text id="Proceed" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="20" font-weight="400" fill="#FFFFFF">
+                    <tspan x="77" y="1282">Proce</tspan>
+                    <tspan x="77" y="1306">ed</tspan>
+                </text>
+                <text id="Forgot-Password-?" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#4E5DC1">
+                    <tspan x="3" y="1239">Forgot </tspan>
+                    <tspan x="3" y="1256">Password ?</tspan>
+                </text>
+                <text id="Mr-Salazar-Slytherin" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#000000">
+                    <tspan x="8" y="1693">Mr Salazar Slytherin</tspan>
+                </text>
+                <text id="Agency-A" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#000000">
+                    <tspan x="8" y="1798">Agency A</tspan>
+                </text>
+                <text id="Agency-B" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#000000">
+                    <tspan x="8" y="1837">Agency B</tspan>
+                </text>
+                <text id="#12345678965" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="5" y="1927">#12345678965</tspan>
+                </text>
+                <text id="Applicant-IDs" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="7" y="1889">Applicant IDs</tspan>
+                </text>
+                <text id="Age" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="20" font-weight="400" fill="#000000">
+                    <tspan x="8" y="1978">Age</tspan>
+                </text>
+                <text id="25-Years" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="31" y="2045">25 Years</tspan>
+                </text>
+                <text id="Module-1" fill="url(#linearGradient-2)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold">
+                    <tspan x="3" y="53">Module 1</tspan>
+                </text>
+                <text id="Module-2" fill="url(#linearGradient-2)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold">
+                    <tspan x="3" y="720">Module 2</tspan>
+                </text>
+                <text id="Module-3-|-Dashboard" fill="url(#linearGradient-2)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold">
+                    <tspan x="3" y="1633">Module 3 | Dashboard</tspan>
+                </text>
+                <text id="34-|-Regular-|-Helve" fill="url(#linearGradient-1)" font-family="HelveticaNeue, Helvetica Neue" font-size="48" font-weight="normal">
+                    <tspan x="723" y="1403">34 | Regular | Helvetica Neue</tspan>
+                </text>
+                <text id="Dear-applicant,-plea" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="3" y="191">Dear applicant, please enter </tspan>
+                    <tspan x="3" y="212">your mobile number for </tspan>
+                    <tspan x="3" y="233">verification.</tspan>
+                </text>
+                <text id="16-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="1123" y="176">16 | Regular | </tspan>
+                    <tspan x="1123" y="197">Helvetica Neue</tspan>
+                </text>
+                <text id="Mobile-Number-Verifi" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="3" y="146">Mobile Number Verification</tspan>
+                </text>
+                <text id="18-|-Bold-helvetica" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="1123" y="448">18 | Bold </tspan>
+                    <tspan x="1123" y="472">helvetica Neue</tspan>
+                </text>
+                <text id="Welcome-to-21North!" fill="url(#linearGradient-1)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="36" font-weight="bold">
+                    <tspan x="3" y="292">Welcome to 21North!</tspan>
+                </text>
+                <text id="30-|-Bold-|-Helvetic" fill="url(#linearGradient-1)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="36" font-weight="bold">
+                    <tspan x="837" y="584">30 | Bold | Helvetica Neue</tspan>
+                </text>
+                <text id="OTP-Sent-in-+91-7625" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#109B57">
+                    <tspan x="3" y="608">OTP Sent in +91 </tspan>
+                    <tspan x="3" y="629">7625373937</tspan>
+                </text>
+                <text id="18-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#109B57">
+                    <tspan x="823" y="446">18 | Regular | </tspan>
+                    <tspan x="823" y="467">Helvetica Neue</tspan>
+                </text>
+                <text id="18-|-Medium-|-Helvet" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="20" font-weight="400" fill="#000000">
+                    <tspan x="1123" y="317">18 | Medium | </tspan>
+                    <tspan x="1123" y="341">Helvetica Neue</tspan>
+                </text>
+                <text id="Sed-ut-perspiciatis" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="3" y="338">Sed ut perspiciatis unde omnis </tspan>
+                    <tspan x="3" y="361">iste </tspan>
+                    <tspan x="3" y="384">natus error sit voluptatem </tspan>
+                    <tspan x="3" y="407">accusantium doloremque </tspan>
+                    <tspan x="3" y="430">laudantium, totam rem aperiam, </tspan>
+                    <tspan x="3" y="453">eaque ipsa quae ab illo </tspan>
+                    <tspan x="3" y="476">inventore veritatis et quasi</tspan>
+                </text>
+                <text id="18-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="822" y="317">18 | Regular | </tspan>
+                    <tspan x="822" y="340">Helvetica Neue</tspan>
+                </text>
+                <text id="16-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="822" y="176">16 | Regular | </tspan>
+                    <tspan x="822" y="197">Helvetica Neue</tspan>
+                </text>
+                <text id="Lorem-ipsum-dolor-si" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="7" y="915">Lorem ipsum dolor sit amet, consectetur adipiscing </tspan>
+                    <tspan x="7" y="936">elit, sed do eiusmod tempor incididunt ut labore et </tspan>
+                    <tspan x="7" y="957">dolore magna </tspan>
+                </text>
+                <text id="18-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="764" y="882">18 | Regular | </tspan>
+                    <tspan x="764" y="903">Helvetica Neue</tspan>
+                </text>
+                <text id="We-Listen,-We-Speak," font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="48" font-weight="bold" fill="#000000">
+                    <tspan x="3" y="813">We Listen, We Speak, </tspan>
+                    <tspan x="3" y="870">We Train</tspan>
+                </text>
+                <text id="32-|-Bold-|-Helvetic" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="48" font-weight="bold" fill="#000000">
+                    <tspan x="754" y="790">32 | Bold | Helvetica Neue</tspan>
+                </text>
+                <text id="12-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="1195" y="883">12  | Regular | </tspan>
+                    <tspan x="1195" y="899">Helvetica Neue</tspan>
+                </text>
+                <text id="Pre---Screening" fill="url(#linearGradient-1)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="36" font-weight="bold">
+                    <tspan x="3" y="1151">Pre - Screening</tspan>
+                </text>
+                <text id="3" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#FA870C">
+                    <tspan x="163" y="1475">3</tspan>
+                </text>
+                <text id="4" fill="url(#linearGradient-3)" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal">
+                    <tspan x="229" y="1475">4</tspan>
+                </text>
+                <text id="5" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#109B57">
+                    <tspan x="296" y="1475">5</tspan>
+                </text>
+                <text id="General-condition-of" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="3" y="1184">General condition of vehicle</tspan>
+                </text>
+                <text id="18-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#E93A51">
+                    <tspan x="715" y="1180">18 | Regular | </tspan>
+                    <tspan x="715" y="1201">Helvetica Neue</tspan>
+                </text>
+                <rect id="Rectangle-2" stroke="#FA870C" opacity="0.6" x="136.5" y="1450.5" width="62" height="34" rx="4"></rect>
+                <rect id="Rectangle-2" stroke="url(#linearGradient-3)" x="202.5" y="1450.5" width="62" height="34" rx="4"></rect>
+                <rect id="Rectangle-2" stroke="#00B06C" x="268.5" y="1450.5" width="62" height="34" rx="4"></rect>
+                <g id="Group-4" transform="translate(4.000000, 1381.000000)">
+                    <path d="M2,0.5 C1.17157288,0.5 0.5,1.17157288 0.5,2 C0.5,2.82842712 1.17157288,3.5 2,3.5 L373,3.5 C373.828427,3.5 374.5,2.82842712 374.5,2 C374.5,1.17157288 373.828427,0.5 373,0.5 L2,0.5 Z" id="Rectangle-11" stroke="url(#linearGradient-1)"></path>
+                    <path d="M2,0 L53.6379822,-1.33226763e-15 C54.7425517,-1.53517375e-15 55.6379822,0.8954305 55.6379822,2 L55.6379822,2 C55.6379822,3.1045695 54.7425517,4 53.6379822,4 L2,4 C0.8954305,4 1.3527075e-16,3.1045695 0,2 L0,2 C-1.3527075e-16,0.8954305 0.8954305,-1.91384796e-17 2,-2.22044605e-16 Z" id="Rectangle-11" fill="url(#linearGradient-1)"></path>
+                </g>
+                <text id="20%-completed" font-family="HelveticaNeue-Italic, Helvetica Neue" font-size="14" font-style="italic" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="386" y="1388">20% completed</tspan>
+                </text>
+                <text id="12-|-Italic-|-Helvet" font-family="HelveticaNeue-Italic, Helvetica Neue" font-size="14" font-style="italic" font-weight="normal" fill="#4A4A4A">
+                    <tspan x="1247" y="1177">12 | Italic | </tspan>
+                    <tspan x="1247" y="1193">Helvetica Neue</tspan>
+                </text>
+                <text id="Username" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="98" y="1015">Username</tspan>
+                </text>
+                <text id="14-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="14" font-weight="normal" fill="#9B9B9B">
+                    <tspan x="994" y="886">14 | Regular | </tspan>
+                    <tspan x="994" y="902">Helvetica Neue</tspan>
+                </text>
+                <rect id="Rectangle-3" stroke="url(#linearGradient-4)" x="3.5" y="987.5" width="287" height="40" rx="4"></rect>
+                <rect id="Rectangle-3" fill="url(#linearGradient-4)" x="3" y="1269" width="206" height="41" rx="4"></rect>
+                <text id="30-|-Bold-|-Helvetic" fill="url(#linearGradient-1)" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="36" font-weight="bold">
+                    <tspan x="824" y="1076">30 | Bold | Helvetica Neue</tspan>
+                </text>
+                <text id="16-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="894" y="1180">16 | Regular | </tspan>
+                    <tspan x="894" y="1203">Helvetica Neue</tspan>
+                </text>
+                <text id="14-|-Medium-|-Helvet" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#4E5DC1">
+                    <tspan x="1095" y="1177">14 | Medium | </tspan>
+                    <tspan x="1095" y="1194">Helvetica Neue</tspan>
+                </text>
+                <text id="12-|-Medium-|-Helvet" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#000000">
+                    <tspan x="883" y="1664">12 | Medium | Helvetica Neue</tspan>
+                </text>
+                <g id="Rectangle-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-6)" xlink:href="#path-5"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-5"></use>
+                </g>
+                <text id="Application-Sources" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#000000">
+                    <tspan x="19" y="1744">Application Sources</tspan>
+                </text>
+                <g id="Rectangle-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-7"></use>
+                </g>
+                <text id="14-|-Medium-|-Helvet" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#000000">
+                    <tspan x="890" y="1726">14 | Medium | Helvetica Neue</tspan>
+                </text>
+                <text id="14-|-Medium-|-Helvet" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#000000">
+                    <tspan x="887" y="1792">14 | Medium | Helvetica Neue</tspan>
+                </text>
+                <text id="Filters" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#FFFFFF">
+                    <tspan x="374" y="1751">Filte</tspan>
+                    <tspan x="374" y="1768">rs</tspan>
+                </text>
+                <text id="18-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="883" y="1896">18 | Regular | Helvetica Neue</tspan>
+                </text>
+                <text id="20-|-Bold-|-Helvetic" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="20" font-weight="bold" fill="#000000">
+                    <tspan x="885" y="1847">20 | Bold | Helvetica Neue</tspan>
+                </text>
+                <rect id="Rectangle-3" stroke="url(#linearGradient-4)" x="3.5" y="2016.5" width="205" height="40" rx="4"></rect>
+                <path d="M197.837138,2035.82081 L194.271533,2038.90261 C194.12144,2039.03246 193.87895,2039.03246 193.728467,2038.90261 L190.162862,2035.82081 C189.945713,2035.63336 189.945713,2035.32837 190.162862,2035.14059 C190.38001,2034.95314 190.732438,2034.95314 190.949587,2035.14059 L194.000195,2037.7769 L197.050023,2035.14059 C197.267562,2034.95314 197.61999,2034.95314 197.837138,2035.14059 C198.054287,2035.32837 198.054287,2035.63336 197.837138,2035.82081 Z" id="Chevron" fill="#000000"></path>
+                <rect id="Rectangle-3" stroke="url(#linearGradient-4)" x="885.5" y="2013.5" width="259" height="40" rx="4"></rect>
+                <text id="20-|-Medium-|-Helvet" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="20" font-weight="400" fill="#000000">
+                    <tspan x="889" y="1963">20 | Medium | Helvetica Neue</tspan>
+                </text>
+                <text id="18-|-Regular-|-Helve" font-family="HelveticaNeue, Helvetica Neue" font-size="18" font-weight="normal" fill="#000000">
+                    <tspan x="890" y="2040">18 | Regular | Helvetica Neue</tspan>
+                </text>
+                <path d="M1137.83714,2032.82081 L1134.27153,2035.90261 C1134.12144,2036.03246 1133.87895,2036.03246 1133.72847,2035.90261 L1130.16286,2032.82081 C1129.94571,2032.63336 1129.94571,2032.32837 1130.16286,2032.14059 C1130.38001,2031.95314 1130.73244,2031.95314 1130.94959,2032.14059 L1134.00019,2034.7769 L1137.05002,2032.14059 C1137.26756,2031.95314 1137.61999,2031.95314 1137.83714,2032.14059 C1138.05429,2032.32837 1138.05429,2032.63336 1137.83714,2032.82081 Z" id="Chevron" fill="#000000"></path>
+                <path d="M0,65.5 L143,65.5" id="Line-5" stroke="#0026FF" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M3,724.5 L142.5,724.5" id="Line-5" stroke="#0026FF" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M3,1645.5 L321,1645.5" id="Line-5" stroke="#0026FF" stroke-width="2" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M668.5,0.345678178 L668.5,2090.66953" id="Line-6" stroke="#EFEFEF" stroke-width="10" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M4,662.25 L1378.36558,662.25" id="Line-7" stroke="#EFEFEF" stroke-width="9" stroke-linecap="square" fill-rule="nonzero"></path>
+                <path d="M4,1536.25 L1378.36558,1536.25" id="Line-7" stroke="#EFEFEF" stroke-width="9" stroke-linecap="square" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

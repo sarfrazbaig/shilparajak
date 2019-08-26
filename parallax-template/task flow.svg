@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1090px" height="517px" viewBox="0 0 1090 517" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="navigation" transform="translate(-67.000000, -850.000000)">
+            <g id="Group-3" transform="translate(68.000000, 851.000000)">
+                <circle id="Oval" stroke="#FF5800" stroke-width="2" cx="92.5" cy="92.5" r="92.5"></circle>
+                <text id="Pickup-flow" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" fill="#252525">
+                    <tspan x="43.345" y="88">Pickup</tspan>
+                    <tspan x="61.96" y="124">flow</tspan>
+                </text>
+                <circle id="Oval" stroke="#FF5800" stroke-width="2" cx="92.5" cy="422.5" r="92.5"></circle>
+                <text id="Dropoff-flow" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="30" font-weight="bold" fill="#252525">
+                    <tspan x="39.285" y="418">Dropoff</tspan>
+                    <tspan x="62.46" y="454">flow</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" x="362.5" y="46.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#FF5800" x="514.5" y="48.5" width="133" height="115"></rect>
+                <text id="Ambassador-on-the-wa" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="527.26" y="114">Ambassador on the </tspan>
+                    <tspan x="531.034" y="129">way to customer’s </tspan>
+                    <tspan x="566.38" y="144">place</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" x="810.5" y="48.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#FF5800" x="955.5" y="48.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#FF5800" x="665.5" y="48.5" width="133" height="115"></rect>
+                <text id="Booking-Scheduled" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="374.76" y="116">Booking Scheduled</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="362.5" y="46.5" width="133" height="37"></rect>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="665.5" y="47.5" width="133" height="37"></rect>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="514.5" y="48.5" width="133" height="37"></rect>
+                <text id="Stage-1" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="408.38" y="70">Stage 1</tspan>
+                </text>
+                <text id="Stage-2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="558.88" y="70">Stage 2</tspan>
+                </text>
+                <text id="Stage-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="712.88" y="70">Stage 3</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="810.5" y="47.5" width="133" height="37"></rect>
+                <text id="Stage-4" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="856.88" y="70">Stage 4</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="955.5" y="47.5" width="133" height="37"></rect>
+                <text id="Stage-5" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="996.88" y="70">Stage 5</tspan>
+                </text>
+                <text id="Reached-customer’s-l" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="706.822" y="120">Reached </tspan>
+                    <tspan x="677.254" y="135">customer’s location</tspan>
+                </text>
+                <text id="On-the-way-to-servic" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="837.04" y="114">On the way to </tspan>
+                    <tspan x="836.476" y="129">service center</tspan>
+                </text>
+                <text id="Reached-service-cent" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="997.322" y="114">Reached </tspan>
+                    <tspan x="982.976" y="129">service center</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" x="362.5" y="366.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#FF5800" x="514.5" y="368.5" width="133" height="115"></rect>
+                <text id="Ambassador-on-the-wa" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="527.26" y="434">Ambassador on the </tspan>
+                    <tspan x="541.696" y="449">way to service </tspan>
+                    <tspan x="563.938" y="464">center</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" x="810.5" y="368.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#FF5800" x="955.5" y="368.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#FF5800" x="665.5" y="368.5" width="133" height="115"></rect>
+                <text id="Booking-Scheduled" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="374.76" y="436">Booking Scheduled</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="362.5" y="366.5" width="133" height="37"></rect>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="665.5" y="367.5" width="133" height="37"></rect>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="514.5" y="368.5" width="133" height="37"></rect>
+                <text id="Stage-1" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="408.38" y="390">Stage 1</tspan>
+                </text>
+                <text id="Stage-2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="558.88" y="390">Stage 2</tspan>
+                </text>
+                <text id="Stage-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="712.88" y="390">Stage 3</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="810.5" y="367.5" width="133" height="37"></rect>
+                <text id="Stage-4" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="856.88" y="390">Stage 4</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#FF5800" fill="#FFD0B7" x="955.5" y="367.5" width="133" height="37"></rect>
+                <text id="Stage-5" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="996.88" y="390">Stage 5</tspan>
+                </text>
+                <text id="Reached-service-cent" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="685.36" y="440">Reached service </tspan>
+                    <tspan x="713.938" y="455">center</tspan>
+                </text>
+                <text id="On-the-way-to-custom" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="837.04" y="434">On the way to </tspan>
+                    <tspan x="845.044" y="449">customer’s </tspan>
+                    <tspan x="853.378" y="464">location</tspan>
+                </text>
+                <text id="Reached-customer’s-l" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="1002.822" y="434">Reached </tspan>
+                    <tspan x="997.044" y="449">customer’s </tspan>
+                    <tspan x="1005.378" y="464">location</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="961px" height="74px" viewBox="0 0 961 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 21</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#5665FF" offset="0%"></stop>
+            <stop stop-color="#0F5FF8" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-48.000000, -15826.000000)">
+            <g id="Group-21" transform="translate(48.000000, 15826.000000)">
+                <rect id="Rectangle-3" fill="url(#linearGradient-1)" x="0" y="0" width="80" height="41" rx="4"></rect>
+                <rect id="Rectangle-3" fill="#004EFF" x="122" y="0" width="80" height="41" rx="4"></rect>
+                <text id="#5665FF" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="0" y="73">#5665FF</tspan>
+                </text>
+                <text id="#004EFF" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="122" y="73">#004EFF</tspan>
+                </text>
+                <text id="#CADAFF" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="258" y="73">#CADAFF</tspan>
+                </text>
+                <text id="#FFF185" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="383" y="73">#FFF185</tspan>
+                </text>
+                <text id="#60FDD9" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="503" y="73">#60FDD9</tspan>
+                </text>
+                <text id="#FFBD76" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="623" y="73">#FFBD76</tspan>
+                </text>
+                <text id="#FF7070" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="753" y="73">#FF7070</tspan>
+                </text>
+                <text id="#00B06C" font-family="HelveticaNeue, Helvetica Neue" font-size="20" font-weight="normal" fill="#000000">
+                    <tspan x="878" y="73">#00B06C</tspan>
+                </text>
+                <rect id="Rectangle-3" fill="#FFF185" x="386" y="0" width="80" height="41" rx="4"></rect>
+                <rect id="Rectangle-3" fill="#60FDD9" x="507" y="0" width="80" height="41" rx="4"></rect>
+                <rect id="Rectangle-3" fill="#FF7070" x="753" y="1" width="80" height="41" rx="4"></rect>
+                <rect id="Rectangle-3" fill="#FFBD76" x="627" y="0" width="80" height="41" rx="4"></rect>
+                <rect id="Rectangle-3" fill="#CADAFF" x="260" y="0" width="80" height="41" rx="4"></rect>
+                <rect id="Rectangle-3" fill="#00B06C" x="879" y="0" width="80" height="41" rx="4"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="973px" height="742px" viewBox="0 0 973 742" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.2 (67145) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 12</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop-HD" transform="translate(-65.000000, -2509.000000)">
+            <g id="Group-12" transform="translate(65.000000, 2509.000000)">
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="1" y="1" width="132" height="77" rx="2"></rect>
+                <rect id="Rectangle" stroke="#004EFF" x="246.5" y="0.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#004EFF" x="398.5" y="2.5" width="133" height="115"></rect>
+                <text id="Module-1" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#004EFF">
+                    <tspan x="37" y="22">Module 1</tspan>
+                </text>
+                <text id="Walk-in-interface-fo" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="22.108" y="45">Walk-in interface </tspan>
+                    <tspan x="24.772" y="59">for ambassador </tspan>
+                </text>
+                <text id="Language-Selection" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="410.735" y="76">Language Selection</tspan>
+                </text>
+                <text id="Action" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" font-weight="bold" fill="#252525">
+                    <tspan x="423.635" y="59">Action</tspan>
+                </text>
+                <text id="Mobile-number-verifi" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="411" y="96">Mobile number </tspan>
+                    <tspan x="411" y="108">verification</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" x="247.5" y="229.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#004EFF" x="694.5" y="2.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#004EFF" x="839.5" y="2.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#004EFF" x="549.5" y="2.5" width="133" height="115"></rect>
+                <text id="User-Group---Ambassa" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" fill="#252525">
+                    <tspan x="281.175" y="57">User Group -</tspan>
+                    <tspan x="265.24" y="69">Ambassador(Driver)</tspan>
+                </text>
+                <text id="To-capture-the-data" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="262.005" y="94">To capture the data of </tspan>
+                    <tspan x="260.53" y="106">the walk-in candidates</tspan>
+                </text>
+                <text id="User-Group---Ambassa" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" fill="#252525">
+                    <tspan x="256" y="286">User Group -</tspan>
+                    <tspan x="256" y="298">Ambassador’s Trainer</tspan>
+                </text>
+                <text id="To-capture-the-post" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="256" y="323">To capture the post </tspan>
+                    <tspan x="256" y="335">training evaluation</tspan>
+                </text>
+                <path d="M133.5,42 L246,42" id="Path" stroke="#004EFF"></path>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="1" y="231" width="132" height="77" rx="2"></rect>
+                <text id="Module-2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#004EFF">
+                    <tspan x="37" y="256">Module 2</tspan>
+                </text>
+                <text id="Trainer-Interface" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="23.89" y="280">Trainer Interface</tspan>
+                </text>
+                <path d="M134,269.668453 L247,269.668453" id="Path" stroke="#004EFF"></path>
+                <rect id="Rectangle" stroke="#004EFF" x="248.5" y="477.5" width="133" height="155"></rect>
+                <rect id="Rectangle" stroke="#004EFF" stroke-width="2" x="1" y="479" width="132" height="77" rx="2"></rect>
+                <text id="Module-3" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="14" font-weight="400" fill="#004EFF">
+                    <tspan x="37" y="504">Module 3</tspan>
+                </text>
+                <text id="Recruiter-Interface" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="17.56" y="530">Recruiter Interface</tspan>
+                </text>
+                <path d="M133.5,515 L248.506935,514.668453" id="Path" stroke="#004EFF"></path>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="246.5" y="0.5" width="133" height="37"></rect>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="549.5" y="1.5" width="133" height="37"></rect>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="398.5" y="2.5" width="133" height="37"></rect>
+                <text id="Intent" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="297.612" y="24">Intent</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="247.5" y="229.5" width="133" height="37"></rect>
+                <text id="Intent" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="299.272" y="253">Intent</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="248.5" y="477.5" width="133" height="37"></rect>
+                <text id="Intent" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="301.272" y="501">Intent</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" x="637.5" y="475.5" width="133" height="129"></rect>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="637.5" y="475.5" width="133" height="37"></rect>
+                <text id="Candidate-full-data" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="675.828" y="492">Candidate</tspan>
+                    <tspan x="660.156" y="506">full data capture</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" x="450.5" y="476.5" width="139" height="265"></rect>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="450.5" y="476.5" width="139" height="37"></rect>
+                <text id="Dasboard-Evaluation" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="459.434" y="500">Dasboard Evaluation</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" x="418.5" y="229.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="418.5" y="229.5" width="133" height="37"></rect>
+                <text id="Dashboard-sorting" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="438" y="253">Dashboard sorting</tspan>
+                </text>
+                <text id="Seggregation-&amp;-Verif" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="423.424" y="19">Seggregation &amp;</tspan>
+                    <tspan x="435.316" y="34">Verification</tspan>
+                </text>
+                <text id="Information-Input" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="570.438" y="24">Information Input</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="694.5" y="1.5" width="133" height="37"></rect>
+                <text id="Job-role-selection" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="712.86" y="24">Job role selection</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="839.5" y="1.5" width="133" height="37"></rect>
+                <text id="Upload-document" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" fill="#252525">
+                    <tspan x="856.326" y="24">Upload document</tspan>
+                </text>
+                <text id="Fill-address-details" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="566.218" y="99">Fill address details</tspan>
+                </text>
+                <text id="Fill-personal-detail" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="564.556" y="76">Fill personal details</tspan>
+                </text>
+                <text id="Action" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" font-weight="bold" fill="#252525">
+                    <tspan x="561.635" y="55">Action</tspan>
+                </text>
+                <text id="Action" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" font-weight="bold" fill="#252525">
+                    <tspan x="704.635" y="55">Action</tspan>
+                </text>
+                <text id="Action" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" font-weight="bold" fill="#252525">
+                    <tspan x="427.135" y="283">Action</tspan>
+                </text>
+                <text id="Action" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" font-weight="bold" fill="#252525">
+                    <tspan x="854.635" y="55">Action</tspan>
+                </text>
+                <text id="Select-role-from-the" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="705" y="75">Select role from the </tspan>
+                    <tspan x="705" y="87">specific job type</tspan>
+                    <tspan x="705" y="99">(driver or technician)</tspan>
+                </text>
+                <text id="Selfie" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="856.19" y="74">Selfie</tspan>
+                </text>
+                <text id="Photo-ID-proof" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="853.81" y="91">Photo ID proof</tspan>
+                </text>
+                <text id="Driving-License" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="852.83" y="108">Driving License</tspan>
+                </text>
+                <text id="View-potential-ambas" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="425" y="296">View potential ambassador </tspan>
+                    <tspan x="425" y="308">and technician</tspan>
+                </text>
+                <text id="Check-status-of-thei" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="425" y="326">Check status of their </tspan>
+                    <tspan x="425" y="338">onboarding process.</tspan>
+                </text>
+                <rect id="Rectangle" stroke="#004EFF" x="583.5" y="228.5" width="133" height="115"></rect>
+                <rect id="Rectangle" stroke="#004EFF" fill="#CADAFF" x="583.5" y="228.5" width="133" height="37"></rect>
+                <text id="Evaluation-of-candid" font-family="HelveticaNeue, Helvetica Neue" font-size="12" font-weight="normal" fill="#252525">
+                    <tspan x="587" y="253">Evaluation of candidate </tspan>
+                </text>
+                <text id="Action" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" font-weight="bold" fill="#252525">
+                    <tspan x="592.135" y="282">Action</tspan>
+                </text>
+                <text id="Action" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" font-weight="bold" fill="#252525">
+                    <tspan x="461.135" y="538">Action</tspan>
+                </text>
+                <text id="Action" font-family="HelveticaNeue-Bold, Helvetica Neue" font-size="10" font-weight="bold" fill="#252525">
+                    <tspan x="647.135" y="533">Action</tspan>
+                </text>
+                <text id="evaluate-the-candida" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="591" y="297">evaluate the candidate </tspan>
+                    <tspan x="591" y="309">on basis of various </tspan>
+                    <tspan x="591" y="321">parameter specific to </tspan>
+                    <tspan x="591" y="333">their job field</tspan>
+                </text>
+                <text id="User-Group---Recruit" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="10" font-weight="400" fill="#252525">
+                    <tspan x="257" y="529">User Group -</tspan>
+                    <tspan x="257" y="541">Recruiters and business </tspan>
+                    <tspan x="257" y="553">stakeholder</tspan>
+                </text>
+                <text id="To-get-an-overview-o" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="255" y="571">To get an overview of </tspan>
+                    <tspan x="255" y="583">ambassador lined up in </tspan>
+                    <tspan x="255" y="595">different stages before </tspan>
+                    <tspan x="255" y="607">taking a final call in </tspan>
+                    <tspan x="255" y="619">recruitment.</tspan>
+                </text>
+                <text id="To-view-and-enter-th" font-family="HelveticaNeue, Helvetica Neue" font-size="10" font-weight="normal" fill="#252525">
+                    <tspan x="647" y="552">To view and enter the full </tspan>
+                    <tspan x="647" y="564">data capture of the</tspan>
+                    <tspan x="647" y="576">candidate of the </tspan>
+                    <tspan x="647" y="588">evaluation stage</tspan>
+                </text>
+                <text id="View-overall-recruit" font-family="ProximaNova-Regular, Proxima Nova" font-size="11" font-weight="normal" fill="#000000">
+                    <tspan x="459" y="556">View overall</tspan>
+                    <tspan x="459" y="569">recruitment funnel to</tspan>
+                    <tspan x="459" y="582">understand the demand</tspan>
+                    <tspan x="459" y="595">supllysituation in phases</tspan>
+                    <tspan x="459" y="608">and current times.</tspan>
+                </text>
+                <text id="To-get-an-over-view" font-family="ProximaNova-Regular, Proxima Nova" font-size="11" font-weight="normal" fill="#000000">
+                    <tspan x="459" y="627">To get an over-view of</tspan>
+                    <tspan x="459" y="640">the full recruitment </tspan>
+                    <tspan x="459" y="653">process pan-India.</tspan>
+                </text>
+                <text id="View-the-city-wise-m" font-family="ProximaNova-Regular, Proxima Nova" font-size="11" font-weight="normal" fill="#000000">
+                    <tspan x="456" y="671">View the city-wise matrices</tspan>
+                    <tspan x="456" y="684">of recruitment and sources</tspan>
+                    <tspan x="456" y="697">of recruitment of the driver</tspan>
+                    <tspan x="456" y="710">work-force in company.</tspan>
+                </text>
+                <text id="Manage-quality-contr" font-family="ProximaNova-Regular, Proxima Nova" font-size="11" font-weight="normal" fill="#000000">
+                    <tspan x="461" y="729">Manage quality control.</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
